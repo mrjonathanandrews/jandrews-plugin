@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.min.scss"],"names":[],"mappings":"AAAA,KACI,wBAAA,CACA,SAAA","file":"index.min.css","sourcesContent":["body {\r\n    background-color: aliceblue;\r\n    color: red;\r\n}"]}

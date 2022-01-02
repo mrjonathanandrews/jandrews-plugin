@@ -1,0 +1,17 @@
+{
+    "name": "katie/jandrews-plugin",
+    "description": "JAndrews Custom Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jonathan Andrews",
+            "email": "andrews.jonathan.d@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
